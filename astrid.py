@@ -1,0 +1,1 @@
+print("Hello from astrid! This is my contribution to the project.")
