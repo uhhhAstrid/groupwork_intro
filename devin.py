@@ -1,1 +1,2 @@
-print("Hi everybody")
+def sayHello():
+    print("Hi everybody")
