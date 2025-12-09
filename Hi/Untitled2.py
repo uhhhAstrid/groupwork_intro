@@ -1,1 +1,2 @@
-print("hi)")
+def ZOcode():
+    print("hi)")
